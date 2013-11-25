@@ -25,4 +25,6 @@ also supports click events:
 
 click-events are defined using jquery selectors.
 
-Events are created and removed using jQuery, so you need jQuery in order to use this.
+`next`, `fail` and `done`, are supported in _almost_ the same way as in the original cheet.js.
+
+Events are created and removed using *jQuery*, so you need jQuery in order to use this.
